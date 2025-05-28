@@ -1,5 +1,3 @@
-Here is a polished **`README.md`** file you can use for your GitHub project titled:
-
 ---
 
 # 📘 Comparative Analysis of Sorting Algorithms on Varying Data Distributions
